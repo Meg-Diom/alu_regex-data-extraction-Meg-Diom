@@ -1,4 +1,4 @@
-from extract_data import (
+from extraction import (
     extract_emails,
     extract_urls,
     extract_phone_numbers,

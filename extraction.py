@@ -1,7 +1,6 @@
 import re
 
-from 
-patterns import (
+from patterns import (
     EMAIL_PATTERN,
     URL_PATTERN,
     PHONE_PATTERN,
