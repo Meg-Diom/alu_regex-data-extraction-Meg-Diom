@@ -1,5 +1,4 @@
-from extra
-ct_data import (
+from extract_data import (
     extract_emails,
     extract_urls,
     extract_phone_numbers,
